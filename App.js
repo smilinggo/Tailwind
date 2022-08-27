@@ -16,7 +16,7 @@ function Header() {
 function Footer() {
   return (
     <footer className="mt-4 ml-4">
-      <small>© 2021 Tate development. All rights reserved.</small>
+      <small>© 2022 Tate development. All rights reserved.</small>
     </footer>
   );
 }
